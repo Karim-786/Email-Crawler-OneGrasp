@@ -1,0 +1,1402 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Do you like to work with variety of colors, shapes, sounds and design?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not sure",
+      "Yes",
+      "Yes, I have understood the instructions. Select and proceed the assessment questions.",
+      "I am not clear of instructions but still want to select and proceed to the assessment questions."
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "Do you like physical activities that require physical strength rather than sitting and watching?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "Do you like to participate in stage shows, events or art competitions?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "Do you enjoy participating in debates, speeches or presentations?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "Do you like to work with a variety of colors and designs?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "Can you imagine different pictures, colors and designs when you close your eyes and visualize how things would look like from different angle?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "Can you convince people to do things your way?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "Do you like to participate in social events, community services and volunteering?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "Do you like to learn more about new technologies and how things work?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "Do you enjoy repairing or fixing gadgets, home appliances etc?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "Do you have an affinity for numbers and have an interest in business and the economy?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Do you enjoy taking part in science projects?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "Do you like taking photographs and collecting pictures?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "Do you like to put objects together or assemble them?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "Do you enjoy reading/watching anything related to science i.e. discovery channel, science magazines etc?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "Do you like to take command of the situation and lead others?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "Are you good at influencing people?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "Do you often take part in outdoor sports, activities or adventures?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "Do you enjoy working with data, written records and details?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "Do you like to plan, organize and prioritize activities?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "Are you very observant to notice creative things that others miss?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "Do you enjoy learning about other cultures?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "Can you concentrate for a longer period without being distracted?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "Do you love to explore more than what is being taught to you?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "Do you like reading business news, reading newspapers, journals & articles?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "Do you like power, status and thrive on taking a risk?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "Do you enjoy working with a tool kit?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "Do you like documentation and preparing notes?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "Do you like to involve in social welfare activities?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "Do you enjoy writing stories, fiction, plays and other interesting things?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "Do you enjoy taking part in hands-on projects to build some objects or things?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "Do you like to interact, listen and solve the personal issues of others?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "Do you generally identify the flaws or mistakes in a document that others miss?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "Do you ask lots of questions to know how things work?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "Do you like to participate in a health camp?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "Do you like solving mind games or puzzles that require logic such as chess, checkers and sudoku?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "Do you like to spend your time with nature, plants or animals?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "Do you enjoy applying logic to solve complex problems?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "Do you like to show creativity using your imagination?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "Do you enjoy observing people and understand their behaviour?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "Do you like subjects like social science or psychology?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "Do you like working indoors and doing paperwork?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "Are you good at arguing your point of view?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "Do you enjoy opening gadgets or toys to see the mechanism and how it works?",
+    "category": "Career Interest",
+    "options": [
+      "Not really",
+      "Rarely",
+      "Yes, I have done it many times"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "Can you analyze and solve problems quickly in your head?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "Do you find it easy to get involved in creative activities?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "Do you often discuss the social issues of society?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "Do you follow a budget, economic policies or financial news?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "Do you like to demonstrate new ideas or concepts?",
+    "category": "Career Interest",
+    "options": [
+      "No",
+      "Not Sure",
+      "Yes"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "Which activity would you like the most?",
+    "category": "Career Interest",
+    "options": [
+      "Lead People",
+      "Help people",
+      "Organize Data or things",
+      "Analyze Problems",
+      "Build or Fix Objects",
+      "Design or Decorate Objects"
+    ]
+  },
+  {
+    "question_number": 51,
+    "question_text": "What do you like most",
+    "category": "Career Interest",
+    "options": [
+      "Social Activities",
+      "Managing task",
+      "Influencing People",
+      "Creativity",
+      "Research",
+      "Outdoor and Physical Activities"
+    ]
+  },
+  {
+    "question_number": 52,
+    "question_text": "How do you see yourself?",
+    "category": "Career Interest",
+    "options": [
+      "Precise, Scientific, and Intellectual",
+      "Expressive, Imaginative, and Creative",
+      "Helpful, Friendly and Trustworthy",
+      "Energetic, Influential and Sociable",
+      "Planned, Organized and Accurate",
+      "Practical, Mechanical and Physically active",
+      "Yes, I have understood the instructions. Select and proceed with the assessment questions.",
+      "I am not clear about the instructions but still want to select and proceed with the assessment questions."
+    ]
+  },
+  {
+    "question_number": 53,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually like to have many people around me.",
+      "I enjoy spending time with myself."
+    ]
+  },
+  {
+    "question_number": 54,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I talk more than I listen.",
+      "I listen more than I talk."
+    ]
+  },
+  {
+    "question_number": 55,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "It is easy for me to approach other individuals and make new friends.",
+      "I am more likely to be the reserved type and I approach new relationships carefully."
+    ]
+  },
+  {
+    "question_number": 56,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually act first before I think",
+      "I usually think first before I act"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I develop new ideas through discussion.",
+      "I develop new ideas when I focus within myself."
+    ]
+  },
+  {
+    "question_number": 58,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I find it easy to introduce myself and interact with many people.",
+      "I find it difficult to introduce myself and interact with many people."
+    ]
+  },
+  {
+    "question_number": 59,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I can easily be distracted while doing the task",
+      "I can focus on a task for longer duration without being distracted easily"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I like to learn new things through observation and practical activities.",
+      "I like to learn new things through intensive thinking and imagination."
+    ]
+  },
+  {
+    "question_number": 61,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I like to do things in proven ways.",
+      "I like to do things in new ways."
+    ]
+  },
+  {
+    "question_number": 62,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually begin with facts and then build a bigger idea.",
+      "I usually build a bigger idea and then find out facts."
+    ]
+  },
+  {
+    "question_number": 63,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I prefer to trust my actual experience.",
+      "I prefer to trust my gut instincts."
+    ]
+  },
+  {
+    "question_number": 64,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I apply details and facts in my assignments.",
+      "I apply new ideas in my assignments."
+    ]
+  },
+  {
+    "question_number": 65,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I prefer practical solutions in solving issues",
+      "I prefer creative solutions in solving issues"
+    ]
+  },
+  {
+    "question_number": 66,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I prefer to learn step by step in a structured way.",
+      "I prefer to learn in a non orderly random manner."
+    ]
+  },
+  {
+    "question_number": 67,
+    "question_text": "How do you take the decisions?",
+    "category": "Personality",
+    "options": [
+      "I usually take decisions with my head and focus on facts.",
+      "I usually take decisions with my heart and consider other's feelings."
+    ]
+  },
+  {
+    "question_number": 68,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "Usually, I am not sensitive to other people’s opinion and comments about me.",
+      "I am sensitive to other people’s opinion and comments about me."
+    ]
+  },
+  {
+    "question_number": 69,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I see myself as a precise, scientific and intellectual person.",
+      "I see myself as a helpful, friendly and caring person."
+    ]
+  },
+  {
+    "question_number": 70,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I am usually tough minded.",
+      "I am usually soft hearted."
+    ]
+  },
+  {
+    "question_number": 71,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually give direct and honest opinions to others.",
+      "I am usually careful not to hurt others with my comments."
+    ]
+  },
+  {
+    "question_number": 72,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I am motivated by achievement",
+      "I am motivated by appreciation"
+    ]
+  },
+  {
+    "question_number": 73,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I give more importance to facts, tasks and logical considerations.",
+      "I give more importance to the personal value system and social considerations."
+    ]
+  },
+  {
+    "question_number": 74,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I like to make plans and schedules and try to stick with them",
+      "I like to be flexible and keep plans to a minimum."
+    ]
+  },
+  {
+    "question_number": 75,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually take tasks without making a plan.",
+      "I usually plan everything first in advance before moving into action."
+    ]
+  },
+  {
+    "question_number": 76,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I often juggle multiple tasks at a time.",
+      "I usually do one task at a time."
+    ]
+  },
+  {
+    "question_number": 77,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I am mostly punctual and more often on time",
+      "I am less time conscious and more often late"
+    ]
+  },
+  {
+    "question_number": 78,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I am a structured thinker who prefers to narrow down options and conclude.",
+      "I am a random thinker who prefers to keep the options open and explore."
+    ]
+  },
+  {
+    "question_number": 79,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I normally finish my work on time",
+      "I usually drag my work to completion"
+    ]
+  },
+  {
+    "question_number": 80,
+    "question_text": "Which Option Describes You Best?",
+    "category": "Personality",
+    "options": [
+      "I usually have a flexible approach to life.",
+      "I usually have a planned approach to life.",
+      "Yes, I have understood the instructions. Select and proceed with the assessment questions.",
+      "I am not clear about the instructions but still want to select and proceed with the assessment questions."
+    ]
+  },
+  {
+    "question_number": 81,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always.",
+      "Most of the time.",
+      "Not really",
+      "Definitely No"
+    ]
+  },
+  {
+    "question_number": 82,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always, I like to work alone",
+      "Most of the time.",
+      "Not really, mostly I like to work in groups",
+      "Definitely No, In fact I enjoy working in groups"
+    ]
+  },
+  {
+    "question_number": 83,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always, I would like to upgrade my skills.",
+      "Most of the time.",
+      "Not really",
+      "Definitely No"
+    ]
+  },
+  {
+    "question_number": 84,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always, I would like to work in high paced, challenging work environment",
+      "Most of the time.",
+      "Not really",
+      "Definitely No, Working environment should be pleasant, peaceful that requires honesty"
+    ]
+  },
+  {
+    "question_number": 85,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always.",
+      "Most of the times.",
+      "Not really",
+      "Definitely No, Work environment should be casual and flexible"
+    ]
+  },
+  {
+    "question_number": 86,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always.",
+      "Most of the time.",
+      "Not really",
+      "Definitely No"
+    ]
+  },
+  {
+    "question_number": 87,
+    "question_text": "Given an option, how much would you like to choose the given value in your dream job?",
+    "category": "Career Motivators",
+    "options": [
+      "Always.",
+      "Most of the time.",
+      "Not really",
+      "Definitely No",
+      "Look it up in the dictionary.",
+      "Picturize the word in your mind and choose the way it looks.",
+      "Spell it out loud to see if it sounds right.",
+      "Write both versions down on paper and choose one."
+    ]
+  },
+  {
+    "question_number": 88,
+    "question_text": "When you study, what makes you learn better?",
+    "category": "Career Motivators",
+    "options": [
+      "Read and rewrite notes, headings in a book.",
+      "Listen to a lecture, discuss it or repeat loudly to yourself.",
+      "Move around and learn by practicals, demonstrations.",
+      "Convert text to labelled diagrams, flowcharts, images and illustrations."
+    ]
+  },
+  {
+    "question_number": 89,
+    "question_text": "To learn how a computer works, would you rather",
+    "category": "Career Motivators",
+    "options": [
+      "Watch a demo video about it?",
+      "listen to someone explaining it?",
+      "Take the computer apart and try to figure it out by myself?",
+      "Read the instructions and catalogue?"
+    ]
+  },
+  {
+    "question_number": 90,
+    "question_text": "In a class or seminar, You usually",
+    "category": "Career Motivators",
+    "options": [
+      "Make plenty of notes on what the teacher says.",
+      "Listen carefully and make some notes.",
+      "Draw pictures, illustrations while listening",
+      "Prefer more examples, demos and real time applications"
+    ]
+  },
+  {
+    "question_number": 91,
+    "question_text": "You have to present your ideas to your class. You would",
+    "category": "Career Motivators",
+    "options": [
+      "Prefer creating a working model and demonstrate to others",
+      "Prefer creating diagrams, flowcharts, and graphs to explain ideas",
+      "Prefer to write and practice a few key words by saying them over and over again",
+      "Prefer to write down and practice my speech by reading it over and over again."
+    ]
+  },
+  {
+    "question_number": 92,
+    "question_text": "Do you prefer a teacher or a presenter who uses",
+    "category": "Career Motivators",
+    "options": [
+      "Diagrams, charts or graphs?",
+      "Question and answer, talk, group discussion, or guest speakers?",
+      "Handouts, books, or readings?",
+      "Demonstrations, models or practical sessions?"
+    ]
+  },
+  {
+    "question_number": 93,
+    "question_text": "You are about to purchase a digital camera or a mobile phone. Apart from the price, what would have the most influence on your decision?",
+    "category": "Career Motivators",
+    "options": [
+      "Trying or testing it.",
+      "Reading the details or checking its features online.",
+      "Modern design and sleek looks .",
+      "The salesperson telling me about its features."
+    ]
+  },
+  {
+    "question_number": 94,
+    "question_text": "Remember a time when you learned how to do something new. Avoid choosing a physical skill, eg. Riding a bike. You learned best by",
+    "category": "Career Motivators",
+    "options": [
+      "Watching a demonstration.",
+      "Listening to somebody explaining it and asking questions.",
+      "Diagrams, maps, and charts  visual clues.",
+      "Written instructions e.g. a manual or book.",
+      "Yes, I have understood the instructions. Select and proceed with the assessment questions.",
+      "I am not clear about the instructions but still want to select and proceed with the assessment questions."
+    ]
+  },
+  {
+    "question_number": 95,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Helping people with their emotional issues or mental health.",
+      "Design and decorate things using different colors to make them beautiful.",
+      "Caring and saving people from disease.",
+      "Perform practical with chemicals in lab",
+      "helping the farmers in increasing their produce",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 96,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Spending lots of time on computers and amazing others with your work on computer",
+      "Being a sports person.",
+      "Managing financials and other people's money.",
+      "Trying different ingredients and flavours in food",
+      "Develop highfeatured mobile phones, smart watches, televisions, refrigerators etc.",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 97,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Exploring and guiding new travel destinations to others",
+      "Executing government policies and offering services to the public.",
+      "Marketing or selling products/services in market.",
+      "Making some new mechanism like an engine, a motors, a fan etc. that reduces human effort significantly.",
+      "Working on Global Warming, environment and pollutionrelated issues",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 98,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Managing the business of a company.",
+      "Applying science and technology to solve real life problems.",
+      "Being an actor or performer in stage shows/theater",
+      "Follow fashion trends",
+      "Studying historical events and current scenarios",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 99,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Writing articles or stories and speaking in order to attract/reach people.",
+      "Investigating a crime scene and providing justice.",
+      "Dedicating your life for national and public security",
+      "Given a botanical laboratory, I would like to grow variety of fruits from a single tree",
+      "Teaching, guiding or training others to learn new skills?",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 100,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Involve myself in the wealth and financial well being of the nation.",
+      "Drawing and painting",
+      "Involve in space exploration mission",
+      "Advice others on diet related, fitness related or health care related tips.",
+      "Curing animals from disease.",
+      "None of the above"
+    ]
+  },
+  {
+    "question_number": 101,
+    "question_text": "If ever given an option, which of the work options listed below would you choose to make a living?",
+    "category": "Career Motivators",
+    "options": [
+      "Explore marine life.",
+      "Explore the forest.",
+      "Doing research in a lab to develop a new medical treatment.",
+      "Manage a retail store or supermarket.",
+      "Creating high rise buildings or structures.",
+      "None of the above",
+      "Yes, I have understood the instructions. Select and proceed with the assessment questions.",
+      "I am not clear of instructions but still want to select and proceed with the assessment questions."
+    ]
+  },
+  {
+    "question_number": 102,
+    "question_text": "I usually recognize when I am stressed.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 103,
+    "question_text": "I can sense when others are feeling down or upset.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 104,
+    "question_text": "People can make out easily, if I am anxious or insecure or restless.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 105,
+    "question_text": "I have no idea really how I impact on others.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 106,
+    "question_text": "I don’t involve in others problem. I feel it is better for people to sort things out for themselves .",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 107,
+    "question_text": "I often fail to get what I want and end up doing what others want instead.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 108,
+    "question_text": "I am able to see things from the other person's point of view.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 109,
+    "question_text": "When something is bothering me, I cannot stop thinking about it.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 110,
+    "question_text": "I generally build strong relationships with those I work with.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 111,
+    "question_text": "When I need to do something challenging , I find it hard to motivate myself to get started.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 112,
+    "question_text": "Others find me self centred.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 113,
+    "question_text": "I think people experience me as enthusiastic, outgoing and engaging.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 114,
+    "question_text": "I am able to keep calm even when I am aware of feeling angry or provoked by situation.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 115,
+    "question_text": "I am good at adapting and mixing with a variety of people.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 116,
+    "question_text": "I am OK; I don’t want to be the best or have to push myself too hard.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 117,
+    "question_text": "When I feel anxious I usually can account for the reason(s).",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 118,
+    "question_text": "I feel really passionate about what I am doing.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 119,
+    "question_text": "I can be moody and often not sure what my moods are about.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 120,
+    "question_text": "I see self growth and development as a never ending process.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 121,
+    "question_text": "I can motivate myself whenever I feel low.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 122,
+    "question_text": "People find me very unpredictable and I experience that for myself.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 123,
+    "question_text": "I can listen actively without jumping to judgment.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 124,
+    "question_text": "I put my needs ahead of others.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 125,
+    "question_text": "I realize immediately when I lose my temper.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 126,
+    "question_text": "Others feel encouraged after talking to me.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 127,
+    "question_text": "I am aware of how my behaviour affects others.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 128,
+    "question_text": "No matter what life throws at me, I believe I can deal with it.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 129,
+    "question_text": "I do not let stressful situations or people affect me once I have left work.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 130,
+    "question_text": "I am very choosy about my social network.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  },
+  {
+    "question_number": 131,
+    "question_text": "Others can rarely tell what kind of mood I am in.",
+    "category": "Emotional Quotient",
+    "options": [
+      "Completely true",
+      "Mostly true",
+      "Neutral",
+      "Mostly false",
+      "Completely false"
+    ]
+  }
+]

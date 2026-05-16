@@ -1,0 +1,802 @@
+Career Interest assessment consists of 52 statements.
+Read through the statements below and rate the level of importance you place on that statement on a 3 point scale:
+(1) No
+(2) Not sure
+(3) Yes 
+There is no time limit for this test, however it should take around ten minutes to complete. 
+Example
+Do you like to work with variety of colors, shapes, sounds and design?
+- No
+- Not sure
+- Yes
+•	Yes, I have understood the instructions. Select and proceed the assessment questions.
+•	I am not clear of instructions but still want to select and proceed to the assessment questions.
+2
+Do you like physical activities that require physical strength rather than sitting and watching?
+•	No
+•	Not Sure
+•	Yes
+3
+Do you like to participate in stage shows, events or art competitions?
+•	No
+•	Not Sure
+•	Yes
+4
+Do you enjoy participating in debates, speeches or presentations?
+•	No
+•	Not Sure
+•	Yes
+5
+Do you like to work with a variety of colors and designs?
+•	No
+•	Not Sure
+•	Yes
+6
+Can you imagine different pictures, colors and designs when you close your eyes and visualize how things would look like from different angle?
+•	No
+•	Not Sure
+•	Yes
+7
+Can you convince people to do things your way?
+•	No
+•	Not Sure
+•	Yes
+8
+Do you like to participate in social events, community services and volunteering?
+•	No
+•	Not Sure
+•	Yes
+9
+Do you like to learn more about new technologies and how things work?
+•	No
+•	Not Sure
+•	Yes
+10
+Do you enjoy repairing or fixing gadgets, home appliances etc?
+•	No
+•	Not Sure
+•	Yes
+
+
+Do you have an affinity for numbers and have an interest in business and the economy?
+•	No
+•	Not Sure
+•	Yes
+12
+Do you enjoy taking part in science projects?
+•	No
+•	Not Sure
+•	Yes
+13
+Do you like taking photographs and collecting pictures?
+•	No
+•	Not Sure
+•	Yes
+14
+Do you like to put objects together or assemble them?
+•	No
+•	Not Sure
+•	Yes
+15
+Do you enjoy reading/watching anything related to science i.e. discovery channel, science magazines etc?
+•	No
+•	Not Sure
+•	Yes
+16
+Do you like to take command of the situation and lead others?
+•	No
+•	Not Sure
+•	Yes
+17
+Are you good at influencing people?
+•	No
+•	Not Sure
+•	Yes
+18
+Do you often take part in outdoor sports, activities or adventures?
+•	No
+•	Not Sure
+•	Yes
+19
+Do you enjoy working with data, written records and details?
+•	No
+•	Not Sure
+•	Yes
+20
+Do you like to plan, organize and prioritize activities?
+•	No
+•	Not Sure
+•	Yes
+
+Are you very observant to notice creative things that others miss?
+•	No
+•	Not Sure
+•	Yes
+22
+Do you enjoy learning about other cultures?
+•	No
+•	Not Sure
+•	Yes
+23
+Can you concentrate for a longer period without being distracted?
+•	No
+•	Not Sure
+•	Yes
+24
+Do you love to explore more than what is being taught to you?
+•	No
+•	Not Sure
+•	Yes
+25
+Do you like reading business news, reading newspapers, journals & articles?
+•	No
+•	Not Sure
+•	Yes
+26
+Do you like power, status and thrive on taking a risk?
+•	No
+•	Not Sure
+•	Yes
+27
+Do you enjoy working with a tool kit?
+•	No
+•	Not Sure
+•	Yes
+28
+Do you like documentation and preparing notes?
+•	No
+•	Not Sure
+•	Yes
+29
+Do you like to involve in social welfare activities?
+•	No
+•	Not Sure
+•	Yes
+30
+Do you enjoy writing stories, fiction, plays and other interesting things?
+•	No
+•	Not Sure
+•	Yes
+Do you enjoy taking part in hands-on projects to build some objects or things?
+•	No
+•	Not Sure
+•	Yes
+32
+Do you like to interact, listen and solve the personal issues of others?
+•	No
+•	Not Sure
+•	Yes
+33
+Do you generally identify the flaws or mistakes in a document that others miss?
+•	No
+•	Not Sure
+•	Yes
+34
+Do you ask lots of questions to know how things work?
+•	No
+•	Not Sure
+•	Yes
+35
+Do you like to participate in a health camp?
+•	No
+•	Not Sure
+•	Yes
+36
+Do you like solving mind games or puzzles that require logic such as chess, checkers and sudoku?
+•	No
+•	Not Sure
+•	Yes
+37
+Do you like to spend your time with nature, plants or animals?
+•	No
+•	Not Sure
+•	Yes
+38
+Do you enjoy applying logic to solve complex problems?
+•	No
+•	Not Sure
+•	Yes
+39
+Do you like to show creativity using your imagination?
+•	No
+•	Not Sure
+•	Yes
+40
+Do you enjoy observing people and understand their behaviour?
+•	No
+•	Not Sure
+•	Yes
+Do you like subjects like social science or psychology?
+•	No
+•	Not Sure
+•	Yes
+42
+Do you like working indoors and doing paperwork?
+•	No
+•	Not Sure
+•	Yes
+43
+Are you good at arguing your point of view?
+•	No
+•	Not Sure
+•	Yes
+44
+Do you enjoy opening gadgets or toys to see the mechanism and how it works?
+•	Not really
+•	Rarely
+•	Yes, I have done it many times
+45
+Can you analyze and solve problems quickly in your head?
+•	No
+•	Not Sure
+•	Yes
+46
+Do you find it easy to get involved in creative activities?
+•	No
+•	Not Sure
+•	Yes
+47
+Do you often discuss the social issues of society?
+•	No
+•	Not Sure
+•	Yes
+48
+Do you follow a budget, economic policies or financial news?
+•	No
+•	Not Sure
+•	Yes
+49
+Do you like to demonstrate new ideas or concepts?
+•	No
+•	Not Sure
+•	Yes
+50
+Which activity would you like the most?
+•	Lead People
+•	Help people
+•	Organize Data or things
+•	Analyze Problems
+•	Build or Fix Objects
+•	Design or Decorate Objects
+What do you like most
+•	Social Activities
+•	Managing task
+•	Influencing People
+•	Creativity
+•	Research
+•	Outdoor and Physical Activities
+52
+How do you see yourself?
+•	Precise, Scientific, and Intellectual
+•	Expressive, Imaginative, and Creative
+•	Helpful, Friendly and Trustworthy
+•	Energetic, Influential and Sociable
+•	Planned, Organized and Accurate
+•	Practical, Mechanical and Physically active
+Personality assessment consists of 28 statements.
+Read through the statements below carefully and select any one option that you find closest to you.
+•	Yes, I have understood the instructions. Select and proceed with the assessment questions.
+•	I am not clear about the instructions but still want to select and proceed with the assessment questions.
+54
+Which Option Describes You Best?
+•	I usually like to have many people around me.
+•	I enjoy spending time with myself.
+55
+Which Option Describes You Best?
+•	I talk more than I listen.
+•	I listen more than I talk.
+56
+Which Option Describes You Best?
+•	It is easy for me to approach other individuals and make new friends.
+•	I am more likely to be the reserved type and I approach new relationships carefully.
+57
+Which Option Describes You Best?
+•	I usually act first before I think
+•	I usually think first before I act
+58
+Which Option Describes You Best?
+•	I develop new ideas through discussion.
+•	I develop new ideas when I focus within myself.
+59
+Which Option Describes You Best?
+•	I find it easy to introduce myself and interact with many people.
+•	I find it difficult to introduce myself and interact with many people.
+60
+Which Option Describes You Best?
+•	I can easily be distracted while doing the task
+•	I can focus on a task for longer duration without being distracted easily
+61
+Which Option Describes You Best?
+•	I like to learn new things through observation and practical activities.
+•	I like to learn new things through intensive thinking and imagination.
+62
+Which Option Describes You Best?
+•	I like to do things in proven ways.
+•	I like to do things in new ways.
+Which Option Describes You Best?
+•	I usually begin with facts and then build a bigger idea.
+•	I usually build a bigger idea and then find out facts.
+64
+Which Option Describes You Best?
+•	I prefer to trust my actual experience.
+•	I prefer to trust my gut instincts.
+65
+Which Option Describes You Best?
+•	I apply details and facts in my assignments.
+•	I apply new ideas in my assignments.
+66
+Which Option Describes You Best?
+•	I prefer practical solutions in solving issues
+•	I prefer creative solutions in solving issues
+67
+Which Option Describes You Best?
+•	I prefer to learn step by step in a structured way.
+•	I prefer to learn in a non orderly random manner.
+68
+How do you take the decisions?
+•	I usually take decisions with my head and focus on facts.
+•	I usually take decisions with my heart and consider other's feelings.
+69
+Which Option Describes You Best?
+•	Usually, I am not sensitive to other people’s opinion and comments about me.
+•	I am sensitive to other people’s opinion and comments about me.
+70
+Which Option Describes You Best?
+•	I see myself as a precise, scientific and intellectual person.
+•	I see myself as a helpful, friendly and caring person.
+71
+Which Option Describes You Best?
+•	I am usually tough minded.
+•	I am usually soft hearted.
+72
+Which Option Describes You Best?
+•	I usually give direct and honest opinions to others.
+•	I am usually careful not to hurt others with my comments.
+Which Option Describes You Best?
+•	I am motivated by achievement
+•	I am motivated by appreciation
+74
+Which Option Describes You Best?
+•	I give more importance to facts, tasks and logical considerations.
+•	I give more importance to the personal value system and social considerations.
+75
+Which Option Describes You Best?
+•	I like to make plans and schedules and try to stick with them
+•	I like to be flexible and keep plans to a minimum.
+76
+Which Option Describes You Best?
+•	I usually take tasks without making a plan.
+•	I usually plan everything first in advance before moving into action.
+77
+Which Option Describes You Best?
+•	I often juggle multiple tasks at a time.
+•	I usually do one task at a time.
+78
+Which Option Describes You Best?
+•	I am mostly punctual and more often on time
+•	I am less time conscious and more often late
+79
+Which Option Describes You Best?
+•	I am a structured thinker who prefers to narrow down options and conclude.
+•	I am a random thinker who prefers to keep the options open and explore.
+80
+Which Option Describes You Best?
+•	I normally finish my work on time
+•	I usually drag my work to completion
+81
+Which Option Describes You Best?
+•	I usually have a flexible approach to life.
+•	I usually have a planned approach to life.
+Instructions: Career Motivators assessment consists of 7 questions. These career motivators are in regards to work and job to feel satisfied and fulfilled.
+Read the question and statements carefully and indicate how often or to what degree you feel that way.
+•	Yes, I have understood the instructions. Select and proceed with the assessment questions.
+•	I am not clear about the instructions but still want to select and proceed with the assessment questions.
+83
+Given an option, how much would you like to choose the given value in your dream job?
+Adventurous and excitement involves physical risk.
+•	Always.
+•	Most of the time.
+•	Not really
+•	Definitely No
+84
+Given an option, how much would you like to choose the given value in your dream job?
+Freedom to work alone, make my own decisions, plan my own work.
+•	Always, I like to work alone
+•	Most of the time.
+•	Not really, mostly I like to work in groups
+•	Definitely No, In fact I enjoy working in groups
+85
+Given an option, how much would you like to choose the given value in your dream job?
+Work on the frontiers of knowledge and that requires continuous learning
+•	Always, I would like to upgrade my skills.
+•	Most of the time.
+•	Not really
+•	Definitely No
+86
+Given an option, how much would you like to choose the given value in your dream job?
+Work that has a high degree of competition, challenge, pace and excitement.
+•	Always, I would like to work in high paced, challenging work environment
+•	Most of the time.
+•	Not really
+•	Definitely No, Working environment should be pleasant, peaceful that requires honesty
+87
+Given an option, how much would you like to choose the given value in your dream job?
+Structured work environment which requires high level of accuracy, reliability and set procedures in work.
+•	Always.
+•	Most of the times.
+•	Not really
+•	Definitely No, Work environment should be casual and flexible
+88
+Given an option, how much would you like to choose the given value in your dream job?
+Engage in creative work in any form of art.
+•	Always.
+•	Most of the time.
+•	Not really
+•	Definitely No
+89
+Given an option, how much would you like to choose the given value in your dream job?
+Work should involve social services, responsibility and welfare of people and society
+•	Always.
+•	Most of the time.
+•	Not really
+•	Definitely No
+You are not sure whether a word should be spelled 'dependent' or 'dependant'. You would
+•	Look it up in the dictionary.
+•	Picturize the word in your mind and choose the way it looks.
+•	Spell it out loud to see if it sounds right.
+•	Write both versions down on paper and choose one.
+91
+When you study, what makes you learn better?
+•	Read and re-write notes, headings in a book.
+•	Listen to a lecture, discuss it or repeat loudly to yourself.
+•	Move around and learn by practicals, demonstrations.
+•	Convert text to labelled diagrams, flowcharts, images and illustrations.
+92
+To learn how a computer works, would you rather
+•	Watch a demo video about it?
+•	listen to someone explaining it?
+•	Take the computer apart and try to figure it out by myself?
+•	Read the instructions and catalogue?
+93
+In a class or seminar, You usually
+•	Make plenty of notes on what the teacher says.
+•	Listen carefully and make some notes.
+•	Draw pictures, illustrations while listening
+•	Prefer more examples, demos and real time applications
+94
+You have to present your ideas to your class. You would
+•	Prefer creating a working model and demonstrate to others
+•	Prefer creating diagrams, flowcharts, and graphs to explain ideas
+•	Prefer to write and practice a few key words by saying them over and over again
+•	Prefer to write down and practice my speech by reading it over and over again.
+95
+Do you prefer a teacher or a presenter who uses
+•	Diagrams, charts or graphs?
+•	Question and answer, talk, group discussion, or guest speakers?
+•	Handouts, books, or readings?
+•	Demonstrations, models or practical sessions?
+96
+You are about to purchase a digital camera or a mobile phone. Apart from the price, what would have the most influence on your decision?
+•	Trying or testing it.
+•	Reading the details or checking its features online.
+•	Modern design and sleek looks .
+•	The salesperson telling me about its features.
+97
+Remember a time when you learned how to do something new. Avoid choosing a physical skill, eg. Riding a bike. You learned best by
+•	Watching a demonstration.
+•	Listening to somebody explaining it and asking questions.
+•	Diagrams, maps, and charts - visual clues.
+•	Written instructions e.g. a manual or book.
+Instructions: In this exercise,imagine yourself in a work-life situation, where you need to do certain tasks to earn your daily bread and butter. Read the question carefully and select maximum 3 or minimum 1 statement in every question to make a living.
+You can select one or  multiple statements in every question here.
+•	Yes, I have understood the instructions. Select and proceed with the assessment questions.
+•	I am not clear about the instructions but still want to select and proceed with the assessment questions.
+99
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Helping people with their emotional issues or mental health.
+•	Design and decorate things using different colors to make them beautiful.
+•	Caring and saving people from disease.
+•	Perform practical with chemicals in lab
+•	helping the farmers in increasing their produce
+•	None of the above
+100
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Spending lots of time on computers and amazing others with your work on computer
+•	Being a sports person.
+•	Managing financials and other people's money.
+•	Trying different ingredients and flavours in food
+•	Develop high-featured mobile phones, smart watches, televisions, refrigerators etc.
+•	None of the above
+101
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Exploring and guiding new travel destinations to others
+•	Executing government policies and offering services to the public.
+•	Marketing or selling products/services in market.
+•	Making some new mechanism like an engine, a motors, a fan etc. that reduces human effort significantly.
+•	Working on Global Warming, environment and pollution-related issues
+•	None of the above
+102
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Managing the business of a company.
+•	Applying science and technology to solve real life problems.
+•	Being an actor or performer in stage shows/theater
+•	Follow fashion trends
+•	Studying historical events and current scenarios
+•	None of the above
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Writing articles or stories and speaking in order to attract/reach people.
+•	Investigating a crime scene and providing justice.
+•	Dedicating your life for national and public security
+•	Given a botanical laboratory, I would like to grow variety of fruits from a single tree
+•	Teaching, guiding or training others to learn new skills?
+•	None of the above
+104
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Involve myself in the wealth and financial well being of the nation.
+•	Drawing and painting
+•	Involve in space exploration mission
+•	Advice others on diet related, fitness related or health care related tips.
+•	Curing animals from disease.
+•	None of the above
+105
+If ever given an option, which of the work options listed below would you choose to make a living?
+Select one or multiple statements (Max-3)
+•	Explore marine life.
+•	Explore the forest.
+•	Doing research in a lab to develop a new medical treatment.
+•	Manage a retail store or supermarket.
+•	Creating high rise buildings or structures.
+•	None of the above
+
+Emotional Quotient assessment consists of 30 statements. Read each statement and decide how strongly the statement applies to you.
+•	Yes, I have understood the instructions. Select and proceed with the assessment questions.
+•	I am not clear of instructions but still want to select and proceed with the assessment questions.
+107
+I usually recognize when I am stressed.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+108
+I can sense when others are feeling down or upset.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+109
+People can make out easily, if I am anxious or insecure or restless.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+110
+I have no idea really how I impact on others.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+111
+I don’t involve in others problem. I feel it is better for people to sort things out for themselves .
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+112
+I often fail to get what I want and end up doing what others want instead.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+113
+I am able to see things from the other person's point of view.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+114
+When something is bothering me, I cannot stop thinking about it.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+115
+I generally build strong relationships with those I work with.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+When I need to do something challenging , I find it hard to motivate myself to get started.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+117
+Others find me self centred.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+118
+I think people experience me as enthusiastic, outgoing and engaging.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+119
+I am able to keep calm even when I am aware of feeling angry or provoked by situation.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+120
+I am good at adapting and mixing with a variety of people.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+121
+I am OK; I don’t want to be the best or have to push myself too hard.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+122
+When I feel anxious I usually can account for the reason(s).
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+123
+I feel really passionate about what I am doing.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+124
+I can be moody and often not sure what my moods are about.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+125
+I see self growth and development as a never ending process.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+I can motivate myself whenever I feel low.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+127
+People find me very unpredictable and I experience that for myself.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+128
+I can listen actively without jumping to judgment.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+129
+I put my needs ahead of others.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+130
+I realize immediately when I lose my temper.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+131
+Others feel encouraged after talking to me.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+132
+I am aware of how my behaviour affects others.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+133
+No matter what life throws at me, I believe I can deal with it.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+134
+I do not let stressful situations or people affect me once I have left work.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+135
+I am very choosy about my social network.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+136 
+Others can rarely tell what kind of mood I am in.
+•	Completely true
+•	Mostly true
+•	Neutral
+•	Mostly false
+•	Completely false
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+  
+
+ 
+
+ 
+ 
+      
+   
+      
+
+ 
